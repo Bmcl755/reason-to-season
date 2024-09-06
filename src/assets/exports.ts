@@ -1,0 +1,11 @@
+export { default as Earth } from "../assets/axial-tilt/earth.png";
+export { default as Sun } from "../assets/axial-tilt/sun.png";
+export { default as SunRaysArrow } from "../assets/axial-tilt/sun-rays-arrows.png";
+export { default as SunRaysThick } from "../assets/axial-tilt/sun-rays-thick.png";
+export { default as Arrow } from "../assets/axial-tilt/arrow.png";
+export { default as Hand } from "../assets/axial-tilt/hand.png";
+export { default as Asteroid } from "../assets/axial-tilt/asteroid.png";
+export { default as Mars } from "../assets/axial-tilt/mars.png";
+export { default as Satellite } from "../assets/axial-tilt/satellite.png";
+export { default as UFO } from "../assets/axial-tilt/ufo.png";
+export { default as Collision } from "../assets/axial-tilt/collision.png";
